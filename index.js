@@ -1,4 +1,4 @@
 function add(){
-console.log("Hello Nodejs!");
+console.log("Hello Node.js!");
 }
 add();
